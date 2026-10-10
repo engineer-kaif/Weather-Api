@@ -1,0 +1,4 @@
+border:none     ye aapka border hide krta hai input ho ya button ho
+outline:none    jab aap input ya buuton ka border:none kar dete hai aur jaise input ya button pe click krte hai to border fir aa jata hai ussi ko hide krne ke liye outline none ka use kiya jata hai 
+:: iske bare me dekhna hai ye sayad placeholder pe work kmrta hai
+margin block ka fayda
